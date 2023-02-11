@@ -3,6 +3,18 @@ HR Analytics
 
 AIM: Analyzing Data of different HR departments and Understanding Attritions in each department and gender-wise.
 
+Overview:
+
+The Data is all about Different HR departments information. Displayed KPIs, Total Attritions, Gender wise attritions, and Department wise attritions
+
+Departments: HR, Sales, R&D
+
+Data Source: Opensource data
+
+Project Justification:
+
+This analysis shows KPIs and attritions and department wise attritions by which the company can understand the employees and their status and precautions needed to taken 
+
 
 
 
